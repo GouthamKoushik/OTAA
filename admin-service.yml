@@ -1,2 +1,7 @@
 server:
   port: 9090
+  
+cloudant:
+  url: https://7a1eee07-62a2-43cd-9aac-5c3f498d6ba2-bluemix.cloudant.com
+  username: butmentorstomedlymestsid
+  password: 90aa15c982220604fcf5ac480545f2dc5babadeb
